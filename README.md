@@ -24,7 +24,7 @@ Dark-Fb No Login 100% safe
 ``` 
 ## DISCLAIMER
 ```
-This Tools Has Been Decompiled By ./BL4CKXPL01T
+This Tools Has Been Decompiled By Bcm4D
 Original Code : https://github.com/BOT-033/Sensei
-Copyright©2021 BlackCode.
+Copyright©2021 Rhmt1337
 ```
